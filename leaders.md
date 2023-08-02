@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Danyal Ejaz](mailto:danyal.ejaz@owasp.org)
+* [Muhammad Saad Khan](mailto:muhammadsaad.khan@owasp.org)
