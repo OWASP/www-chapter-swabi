@@ -2,11 +2,16 @@
 
 layout: col-sidebar
 title: OWASP Swabi
-tags: example-tag
+tags: swabi
 region: Asia
-meetup-group:
+meetup-group: owasp-swabi-chapter
 
 ---
+### OWASP Swabi
+
+### Welcome to OWASP Swabi Chapter
+
+We warmly welcome you to OWASP Swabi Chapter!
 
 <div style='color:red;'>
 
