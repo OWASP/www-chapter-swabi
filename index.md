@@ -2,20 +2,23 @@
 
 layout: col-sidebar
 title: OWASP Swabi
-tags: swabi
-region: Asia
+tags: Swabi
 meetup-group: owasp-swabi-chapter
+country: Pakistan
+region: Asia
+
 
 ---
-### OWASP Swabi
 
 ### Welcome to OWASP Swabi Chapter
 
-We warmly welcome you to OWASP Swabi Chapter!
+We warmly welcome you to OWASP Swabi! 
 
-<div style='color:red;'>
+OWASP (Open Web Application Security Project) is a non-profit foundation with a mission to enhance the security of softwares worldwide. By offering free and open access to a diverse range of projects, tools, documents, forums, and chapters, OWASP aims to empower individuals and organizations interested in improving application security. Join us at OWASP Swabi Chapter to connect with like-minded software professionals and contribute to creating a more secure digital world.
+Let's collaborate, learn, and build a safer future together!
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## Participation
+We are soon initiating groups for collaborations - contact danyal.ejaz@owasp.org for now. 
 
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
@@ -31,8 +34,6 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 
 </div>
 
-## Welcome
-Include some information here about your chapter
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
