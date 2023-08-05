@@ -1,11 +1,11 @@
 ---
 
 layout: col-sidebar
-title: OWASP Swabi
+title: "OWASP Swabi"
 tags: Swabi
 meetup-group: owasp-swabi-chapter
-country: Pakistan
-region: Asia
+country: "Pakistan"
+region: "Asia"
 
 
 ---
@@ -37,10 +37,10 @@ We announce events via our [Facebook page](https://www.facebook.com/owaspswabi/)
 ## Call For Speakers
 Our CFS is always open. We love to give you an opportunity to speak at our Swabi OWASP chapter meetings.
 Do you have any interesting topic to speak about? Don't hesitate and send the description of your talk to our 
-[Facebook account](https://www.facebook.com/owaspswabi/) or by email to any of the OWASP Swabi Chapter Leaders, 
+[Facebook page](https://www.facebook.com/owaspswabi/) or by email to any of the OWASP Swabi Chapter Leaders, 
 and we will reach back to you.
 
-👋 A very warm welcome to everyone in [OWASP Swabi chapter](https://owasp.org/www-chapter-swabi/).
+👋 A very warm welcome to everyone in [OWASP Swabi Chapter](https://owasp.org/www-chapter-swabi/).
 
 We welcome everyone to join us and share knowledge, skills, and ideas related to OWASP Swabi Project to make it successful 🙂
 
