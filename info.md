@@ -7,4 +7,6 @@ awareness in the region. Join us to connect with like-minded professionals!
 * [LinkedIn](https://www.linkedin.com/company/owaspswabi/)
 * [WhatApp](https://chat.whatsapp.com/DfxTRwG2cfO0QkzKo1eT18)
 
+### Code Repo
 
+* [GitHub](https://github.com/OWASP/www-chapter-swabi)
