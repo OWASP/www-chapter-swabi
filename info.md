@@ -1,7 +1,10 @@
 ### Swabi Information
-* Provide Group Information
-
+* OWASP Swabi is a local chapter dedicated to advancing software security and application security
+awareness in the region. Join us to connect with like-minded professionals!
 ### Social Links
 * [Meetup](#)
+* [Facebook](https://www.facebook.com/owaspswabi/)
+* [LinkedIn](https://www.linkedin.com/company/owaspswabi/)
+* [WhatApp](https://chat.whatsapp.com/DfxTRwG2cfO0QkzKo1eT18)
 
 
