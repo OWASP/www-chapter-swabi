@@ -27,7 +27,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 ## Upcoming Events
 
 Please join our Meetup group to receive information about upcoming events.
-{% include chapter_events.html group=page.meetup-group %}
+
 
 Stay tuned for upcoming online events in the near future. 
 Please keep an eye on our website and LinkedIn page for updates and more information once we publish it!
