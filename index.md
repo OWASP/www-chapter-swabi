@@ -12,81 +12,42 @@ region: Asia
 
 ### Welcome to OWASP Swabi Chapter
 
-We warmly welcome you to OWASP Swabi! 
+We 👋 warmly welcome you to OWASP Swabi! 
 
-OWASP (Open Web Application Security Project) is a non-profit foundation with a mission to enhance the security of softwares worldwide. By offering free and open access to a diverse range of projects, tools, documents, forums, and chapters, OWASP aims to empower individuals and organizations interested in improving application security. Join us at OWASP Swabi Chapter to connect with like-minded software professionals and contribute to creating a more secure digital world.
+OWASP (Open Web Application Security Project) is a non-profit foundation with a mission to enhance the security of software worldwide. By offering free and open access to a diverse range of projects, tools, documents, forums, and chapters, OWASP aims to empower individuals and organizations interested in improving application security. Join us at OWASP Swabi Chapter to connect with like-minded software professionals and contribute to creating a more secure digital world.
 Let's collaborate, learn, and build a safer future together!
 
 ## Participation
-We are soon initiating groups for collaborations - contact danyal.ejaz@owasp.org for now. 
+We are soon initiating groups for collaborations - contact [Danyal Ejaz](mailto:danyal.ejaz@owasp.org) for now. 
+Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). 
+Financial contributions should only be made online using the authorized online donation button. 
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+## Upcoming Events
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
-
-
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
-
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
+Please join our Meetup group to receive information about upcoming events.
 {% include chapter_events.html group=page.meetup-group %}
 
-<!-- You should delete this comment
+Stay tuned for upcoming online events in the near future. 
+Please keep an eye on our website and LinkedIn page for updates and more information once we publish it!
 
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+We announce events via our [Facebook page](https://www.facebook.com/owaspswabi/) and publish them on our Meetup.
 
-{front matter for this file}
+## Call For Speakers
+Our CFS is always open. We love to give you an opportunity to speak at our Swabi OWASP chapter meetings.
+Do you have any interesting topic to speak about? Don't hesitate and send the description of your talk to our 
+[Facebook account](https://www.facebook.com/owaspswabi/) or by email to any of the OWASP Swabi Chapter Leaders, 
+and we will reach back to you.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+👋 A very warm welcome to everyone in [OWASP Swabi chapter](https://owasp.org/www-chapter-swabi/).
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+We welcome everyone to join us and share knowledge, skills, and ideas related to OWASP Swabi Project to make it successful 🙂
 
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Feel free to reach out [Danyal Ejaz](mailto:danyal.ejaz@owasp.org) in case you have any questions/suggestions.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## Join OWASP 
+If you are interested in joining OWASP, we encourage you to watch this informative video. It provides valuable insights and guidance on becoming a part of our community.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T2tlcZsYtko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
