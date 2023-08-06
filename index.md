@@ -1,11 +1,11 @@
 ---
 
 layout: col-sidebar
-title: "OWASP Swabi"
+title: OWASP Swabi
 tags: Swabi
 meetup-group: owasp-swabi-chapter
-country: "Pakistan"
-region: "Asia"
+country: Pakistan
+region: Asia
 
 
 ---
